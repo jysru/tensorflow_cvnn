@@ -3,3 +3,4 @@
 *trained
 *training
 *.npy
+*.egg-info
