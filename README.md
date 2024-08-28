@@ -15,4 +15,5 @@ $ pip install -e .
 
 ## Upcoming
 
-- Add Complex Convolution Layers
+- Fix ComplexConvTranspose2D
+- Add ComplexBatchNormalization
