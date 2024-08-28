@@ -1,0 +1,7 @@
+setuptools
+tensorflow
+h5py
+numpy
+matplotlib
+pytest
+scipy
