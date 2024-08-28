@@ -1,6 +1,6 @@
 # tensorflow_cvnn
 
-Very rough implementation of Complex-Valued Neural Networks in Tensorflow/Keras
+Very rough start of implementation of Complex-Valued Neural Networks in Tensorflow/Keras
 
 
 ## Installation
